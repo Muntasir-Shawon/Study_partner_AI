@@ -1,6 +1,18 @@
 # 🎓 StudyPartner AI - Intelligent Study Companion & Adaptive Exam Simulator
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_StudyPartner_AI-indigo?style=for-the-badge&logo=vercel)](https://muntasir-shawon.github.io/Study_partner_AI/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Study__partner__AI-black?style=for-the-badge&logo=github)](https://github.com/Muntasir-Shawon/Study_partner_AI)
+
+> 🌐 **Live Website Link**: **[https://muntasir-shawon.github.io/Study_partner_AI/](https://muntasir-shawon.github.io/Study_partner_AI/)**
+
 **StudyPartner AI** is a modern, full-stack interactive learning platform designed to help students, researchers, and professionals master any subject. Upload your lecture slides or specify any topic, and let the AI tutor teach you step-by-step with intuitive analogies, LaTeX formulas, voice narration, active recall flashcards, and custom pattern-based exam simulations.
+
+---
+
+## 🌐 Live Web Application
+
+- 🚀 **Live Production URL**: **[https://muntasir-shawon.github.io/Study_partner_AI/](https://muntasir-shawon.github.io/Study_partner_AI/)**
+- 📦 **Source Code Repository**: **[https://github.com/Muntasir-Shawon/Study_partner_AI](https://github.com/Muntasir-Shawon/Study_partner_AI)**
 
 ---
 
@@ -49,7 +61,7 @@
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started Locally
 
 ### Prerequisites
 - Node.js (v18 or higher recommended)
@@ -59,8 +71,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Study_partner.git
-   cd Study_partner
+   git clone https://github.com/Muntasir-Shawon/Study_partner_AI.git
+   cd Study_partner_AI
    ```
 
 2. Install dependencies:
@@ -97,6 +109,7 @@ NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key_here
 ## 🛠️ Tech Stack
 
 - **Framework**: [Next.js 14](https://nextjs.org/) (App Router & React 18)
+- **Deployment**: [GitHub Pages](https://pages.github.com/) / [Vercel](https://vercel.com)
 - **Styling & UI**: [Tailwind CSS](https://tailwindcss.com/), [Lucide React Icons](https://lucide.dev/)
 - **AI Engine**: [Google Generative AI SDK](https://www.npmjs.com/package/@google/generative-ai) (`gemini-2.5-flash`)
 - **Math Rendering**: [KaTeX](https://katex.org/)
