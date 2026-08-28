@@ -71,7 +71,6 @@ export default function Home() {
     setActiveTab('hub');
   };
 
-  if (!mounted) return null;
 
   return (
     <div className="min-h-screen flex flex-col bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100">
